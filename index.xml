@@ -6,10 +6,19 @@
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2017 09:05:17 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2017 14:15:41 -0700</lastBuildDate>
     
 	<atom:link href="https://13scoobie.github.io/hugo_blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RTFM already...</title>
+      <link>https://13scoobie.github.io/hugo_blog/post/second-hugo-post/</link>
+      <pubDate>Sat, 06 May 2017 14:15:41 -0700</pubDate>
+      
+      <guid>https://13scoobie.github.io/hugo_blog/post/second-hugo-post/</guid>
+      <description>It never ceases to amaze me how just &amp;ldquo;reading the full manual&amp;rdquo; can make such a difference. :)</description>
+    </item>
     
     <item>
       <title>first hugo post</title>
